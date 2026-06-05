@@ -19,15 +19,15 @@
 
 ## 구조
 ```
-disaster_tweets.ipynb / .py          # 과제1 (분류)
-commonlit_readability.ipynb / .py    # 과제2 (회귀)
-build_notebook*.py                   # 노트북 생성 빌더
-train_save_commonlit.py              # 커먼릿 DistilBERT 학습·저장 (제출용)
-kaggle_kernel/                       # 커먼릿 제출용 추론 커널(Code Competition)
-figures/ , figures_commonlit/        # 시각화 PNG
-submission*.csv                      # 제출 파일
-screenshots/                         # Kaggle 제출 캡처
-data/ , data_commonlit/              # 대회 데이터 (git 제외 — 아래로 다운로드)
+disaster_tweets.ipynb / .py # 과제1 (분류)
+commonlit_readability.ipynb / .py # 과제2 (회귀)
+build_notebook*.py # 노트북 생성 빌더
+train_save_commonlit.py # 커먼릿 DistilBERT 학습·저장 (제출용)
+kaggle_kernel/ # 커먼릿 제출용 추론 커널(Code Competition)
+figures/ , figures_commonlit/ # 시각화 PNG
+submission*.csv # 제출 파일
+screenshots/ # Kaggle 제출 캡처
+data/ , data_commonlit/ # 대회 데이터 (git 제외 — 아래로 다운로드)
 ```
 
 ## 실행
