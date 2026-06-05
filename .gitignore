@@ -1,0 +1,24 @@
+# Kaggle 대회 데이터 (재배포 금지 — Kaggle API로 직접 다운로드)
+data/
+data_commonlit/
+
+# 업로드용 모델(대용량, GitHub 100MB 초과) / 커널 실행 출력 / 스테이징
+kaggle_ds_model/
+kernel_output/
+_stage1/
+_stage2/
+
+# 대회 원본 zip (배포 금지) — 제출용 zip(202037006_*.zip)은 추적함
+nlp-getting-started.zip
+commonlitreadabilityprize.zip
+
+# 루트의 원본 스크린샷(정리본은 screenshots/ 에 커밋됨)
+스크린샷*.png
+Screenshot*.png
+
+# 로그/캐시
+*.log
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
